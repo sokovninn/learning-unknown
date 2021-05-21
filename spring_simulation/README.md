@@ -7,11 +7,11 @@
 
 ## Main scripts
 
-run_experiment.py - script with the main open set 3D object detection experiment
+- run_experiment.py - script with the main open set 3D object detection experiment
 
-produce_360_video.py - script for production vidoes with single objects
+- produce_360_video.py - script for production vidoes with single objects
 
-visualise_metrics.py - visualization of the obtained results
+- visualise_metrics.py - visualization of the obtained results
 
-test.py - simulation testing script
+- test.py - simulation testing script
 
