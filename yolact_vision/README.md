@@ -6,6 +6,7 @@
 - process_all.py - script for processing multiple videos
 - compute_thresholds.py - computing of the thresholds for binary classification known/unknown
 - inferecnce_tool.py - transformation of YOLACT outputs
+- visualize_detection_results.py - visualisation of produced detcteions
 
 
 
