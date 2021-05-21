@@ -1,6 +1,11 @@
-#Modified YOLACT
+# Modified YOLACT
 
-##Main scripts:
+## Main scripts:
+
+- proc_video.py - process video with YOLACT and save all detections in each frame
+- process_all.py - script for processing multiple videos
+- compute_thresholds.py - computing of the thresholds for binary classification known/unknown
+- inferecnce_tool.py - transformation of YOLACT outputs
 
 
 
